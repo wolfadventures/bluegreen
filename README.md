@@ -1,4 +1,3 @@
 bluegreen
 =========
-
-BlueGreen
+A simple blue and green website theme.
